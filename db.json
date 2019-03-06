@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "ggg",
+      "description": "verygood",
+      "id": 1
+    },
+    {
+      "title": "another stream",
+      "description": "just a good test",
+      "id": 2
+    },
+    {
+      "title": "another stream",
+      "description": "edit test",
+      "id": 3
+    },
+    {
+      "title": "dhsaufklsa",
+      "description": "hfkwkfhewhfkjlwe",
+      "userId": "102825620609514323139",
+      "id": 4
+    },
+    {
+      "title": "yeah",
+      "description": "jdjdjdjdj",
+      "userId": "102825620609514323139",
+      "id": 5
+    }
+  ]
+}
